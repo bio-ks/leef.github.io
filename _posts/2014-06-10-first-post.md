@@ -3,6 +3,7 @@ layout: post
 title: First Post
 published: true
 comments: true
+share: true
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, dolor mollitia minus facere necessitatibus quidem magnam dignissimos maxime impedit illo sequi incidunt commodi hic possimus fuga pariatur recusandae amet. Minima.</p>
