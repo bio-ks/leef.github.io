@@ -3,10 +3,7 @@ layout: post
 title: First Post
 published: true
 ---
-<<<<<<< HEAD
-=======
 
->>>>>>> b9f432863944a5d12c7a75ab21eb207d2ac743a8
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, dolor mollitia minus facere necessitatibus quidem magnam dignissimos maxime impedit illo sequi incidunt commodi hic possimus fuga pariatur recusandae amet. Minima.</p>
 <p>Doloribus, sunt, perspiciatis nobis enim ipsa quia voluptatibus quam hic nesciunt culpa optio impedit dolore sint blanditiis debitis unde magnam delectus fugiat voluptatem ab iusto recusandae harum molestias quas illo.</p>
 <p>Aut, assumenda, laboriosam quidem perferendis quae eaque sit sint molestias placeat. Natus, odit enim eaque perspiciatis. Hic, ab, aliquam, eveniet eos minima iure a provident pariatur quia vel veritatis qui!</p>
