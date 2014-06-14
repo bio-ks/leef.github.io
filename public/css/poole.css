@@ -148,7 +148,7 @@ text-align: center; }
   padding: 1.5em; }
   @media screen and (max-width: 768px) {
     .links li {
-      padding: 1em; } }
+      padding: 0.7em; } }
 
   /* Leef footer */
     
