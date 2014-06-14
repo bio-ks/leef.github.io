@@ -6,7 +6,20 @@ comments: true
 share: true
 ---
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, dolor mollitia minus facere necessitatibus quidem magnam dignissimos maxime impedit illo sequi incidunt commodi hic possimus fuga pariatur recusandae amet. Minima.</p>
-<p>Doloribus, sunt, perspiciatis nobis enim ipsa quia voluptatibus quam hic nesciunt culpa optio impedit dolore sint blanditiis debitis unde magnam delectus fugiat voluptatem ab iusto recusandae harum molestias quas illo.</p>
-<p>Aut, assumenda, laboriosam quidem perferendis quae eaque sit sint molestias placeat. Natus, odit enim eaque perspiciatis. Hic, ab, aliquam, eveniet eos minima iure a provident pariatur quia vel veritatis qui!</p>
-<p>Aperiam, praesentium ducimus corporis ut nihil fuga quis magnam architecto sunt a consequuntur natus. Adipisci, nam, beatae asperiores dicta quam placeat quibusdam eveniet quidem ullam architecto voluptatibus nemo vero saepe.</p>
+A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin.
+
+I'll put an image right below this; perfect.
+![10/10 salad](/_posts/Photo%20Jun%2006%2C%2011%2021%2050%20AM.jpg)
+Well that _seemed_ easy enough.
+
+Before continuing, I'd like to quote Albert Einstein:
+> Swag.
+
+He followed these procedures:
+1. gym
+2. tan
+3. laundry
+
+Here's a cool block of code:
+`<section class="hello_world"></section>`
+
