@@ -16,6 +16,7 @@ Before continuing, I'd like to quote Albert Einstein:
 > Swag.
 
 He followed these procedures:
+<br>
 1. gym
 2. tan
 3. laundry
