@@ -4,7 +4,7 @@
  <title>Leef</title>
  <link href="http://blog.leef.ioatom.xml" rel="self"/>
  <link href="http://blog.leef.io"/>
- <updated>2014-06-14T02:20:33-04:00</updated>
+ <updated>2014-06-14T17:42:05-04:00</updated>
  <id>http://blog.leef.io</id>
  <author>
    <name>Leef</name>
@@ -14,16 +14,29 @@
  
  <entry>
    <title>First Post</title>
-   <link href="http://blog.leef.io/2014/06/10/first-post/"/>
+   <link href="http://blog.leef.io/first-post"/>
    <updated>2014-06-10T00:00:00-04:00</updated>
-   <id>http://blog.leef.io/2014/06/10/first-post</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, dolor mollitia minus facere necessitatibus quidem magnam dignissimos maxime impedit illo sequi incidunt commodi hic possimus fuga pariatur recusandae amet. Minima.&lt;/p&gt;
+   <id>http://blog.leef.io/first-post</id>
+   <content type="html">&lt;p&gt;A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin.&lt;/p&gt;
 
-&lt;p&gt;Doloribus, sunt, perspiciatis nobis enim ipsa quia voluptatibus quam hic nesciunt culpa optio impedit dolore sint blanditiis debitis unde magnam delectus fugiat voluptatem ab iusto recusandae harum molestias quas illo.&lt;/p&gt;
+&lt;p&gt;I&amp;#39;ll put an image right below this; perfect.
+&lt;img src=&quot;https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/t31.0-8/10463794_10202296936640624_701413299662070409_o.jpg&quot; alt=&quot;10/10 salad&quot;&gt;
+Well that &lt;em&gt;seemed&lt;/em&gt; easy enough.&lt;/p&gt;
 
-&lt;p&gt;Aut, assumenda, laboriosam quidem perferendis quae eaque sit sint molestias placeat. Natus, odit enim eaque perspiciatis. Hic, ab, aliquam, eveniet eos minima iure a provident pariatur quia vel veritatis qui!&lt;/p&gt;
+&lt;p&gt;Before continuing, I&amp;#39;d like to quote Albert Einstein:&lt;/p&gt;
 
-&lt;p&gt;Aperiam, praesentium ducimus corporis ut nihil fuga quis magnam architecto sunt a consequuntur natus. Adipisci, nam, beatae asperiores dicta quam placeat quibusdam eveniet quidem ullam architecto voluptatibus nemo vero saepe.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Swag.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;He followed these procedures:
+&lt;br&gt;
+1. gym
+2. tan
+3. laundry&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s a cool block of code:
+&lt;code&gt;&amp;lt;section class=&amp;quot;hello_world&amp;quot;&amp;gt;&amp;lt;/section&amp;gt;&lt;/code&gt;&lt;/p&gt;
 </content>
  </entry>
  
