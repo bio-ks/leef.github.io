@@ -148,7 +148,7 @@ text-align: center; }
   padding: 1.5em; }
   @media screen and (max-width: 768px) {
     .links li {
-      padding: 1em; } }
+      padding: 0.7em; } }
 
   /* Leef footer */
     
@@ -158,7 +158,8 @@ padding-bottom: 1em;
 font-weight: 200;
 text-align: center; }
 .social ul.networks {
-padding: 0; }
+padding: 0;
+margin-top: -14px }
 .social li:first-child {
 padding-left: 0; }
 .social li:last-child {
