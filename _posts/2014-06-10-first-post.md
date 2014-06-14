@@ -9,7 +9,7 @@ share: true
 A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin. A very inteligent paragraph, usually in latin.
 
 I'll put an image right below this; perfect.
-![10/10 salad](/_posts/Photo%20Jun%2006%2C%2011%2021%2050%20AM.jpg)
+![10/10 salad](/https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/t31.0-8/10463794_10202296936640624_701413299662070409_o.jpg)
 Well that _seemed_ easy enough.
 
 Before continuing, I'd like to quote Albert Einstein:
