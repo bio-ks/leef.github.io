@@ -9,7 +9,7 @@ permalink:        /:title
 title:            Leef
 tagline:          Blog
 url:              http://blog.leef.io
-paginate:         1
+paginate:         10
 baseurl:          
 author:
   name:           Leef
