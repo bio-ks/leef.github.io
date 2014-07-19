@@ -16,4 +16,4 @@ Seriously though, you guys are amazing. Tinker peaked at #3 in 'Top Paid Product
 
 We have _tons_ of new updates planned for Tinker, and haven't stopped working since release. So long as you guys stick around, we'll be here.
 
-_Joe & Jonah_
+_- Joe & Jonah_
