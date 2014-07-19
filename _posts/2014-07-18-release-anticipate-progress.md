@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+title: "Release, Anticipate, Progress"
+layout: post
+share: true
 ---
 
 When we started Leef this March, we set a goal to create things we'd find useful in hopes others would too. Tinker was the first in this journey, and we're still baffled by the response. We launched nearly two weeks ago, and we've been working hard at improving and implementing new features that many of you requested. A small update was pushed out not too long ago - including minor bug fixes and improvements on visual quirks. Oh, and now Tinker no longer auto-locks! _*yay*_
@@ -11,6 +14,6 @@ There, it's been quoted.
 
 Seriously though, you guys are amazing. Tinker peaked at #3 in 'Top Paid Productivity' apps, and is currently being featured under 'Best New Apps' under Productivity. It's been covered by some serious media outlets, and we've met some awesome people along the way.
 
-We have _tons_ of new updates planned for Tinker, and haven't stopped working since release. SO long as you guys stick around, we'll be here.
+We have _tons_ of new updates planned for Tinker, and haven't stopped working since release. So long as you guys stick around, we'll be here.
 
 **Leef**
