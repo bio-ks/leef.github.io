@@ -12,7 +12,7 @@ We'd like to digress and honestly say thank you. _Thank you._
 
 Boom, done, quoted.
 
-Seriously though, you guys are amazing. Tinker peaked at #3 in 'Top Paid Productivity' apps, and is currently being featured under 'Best New Apps' under Productivity. It's been covered by some serious media outlets, and we've met some awesome people along the way.
+Seriously though, you guys are amazing. Tinker peaked at #3 in 'Top Paid Productivity' apps, and is currently being featured under 'Best New Apps' in Productivity. It's been covered by some serious media outlets, and we've met some awesome people along the way.
 
 We have _tons_ of new updates planned for Tinker, and haven't stopped working since release. So long as you guys stick around, we'll be here.
 
