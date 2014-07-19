@@ -8,7 +8,7 @@ share: true
 When we started Leef this March, we set a goal to create things we'd find useful in hopes others would too. Tinker was the first in this journey, and we're still baffled by the response. We launched nearly two weeks ago, and we've been working hard at improving and implementing new features that many of you requested. A small update was pushed out not too long ago - including minor bug fixes and improvements on visual quirks. Oh, and now Tinker no longer auto-locks! _*yay*_
 
 We'd like to digress and honestly say thank you. _Thank you._
-> "Thank you." - Joe & Jonah
+> "Thank you." - _Joe & Jonah_
 
 Boom, done, quoted.
 
