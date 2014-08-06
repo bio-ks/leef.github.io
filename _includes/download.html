@@ -1,0 +1,31 @@
+  {% if page.download %}
+<head>
+<script id="LR1" type="text/javascript" async="" src="http://platform.twitter.com/js/tfw/hub/client.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.js"></script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="/public/js/tweetToDownload.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+ 
+		$(document).ready(function(){          
+ 
+        $('#download2').tcTweetdl({
+                buttons: 'both',       
+                require_both: false,
+                username: 'teamleef',
+                counter: 'horizontal',
+                tweet_url: "http://blog.leef.io/app-cards",
+                tweet_text: "Create scannable promo code cards for your app with @teamleef's template",
+                message: 'ꜜ Tweet or follow us to download the template! ꜜ',
+                dl: 'http://cl.ly/WsnR/download/App%20Promo%20Card.zip'
+        });
+ 
+});		 
+	</script>
+	 <style type="text/css">
+	 .tweet-dl-message, .tweet-dl-buttons {
+	 	padding-bottom: 1em;
+	 }
+ </style>
+</head>
+<a id="download2"></a>
+  {% endif %}
