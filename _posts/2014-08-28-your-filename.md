@@ -16,6 +16,6 @@ Apart from bug fixes and minor altercations to the pausing system, the headline 
 
 We're currently working on a hefty iOS 8 update, so be on the lookout.
 
-Stay friendly
+Stay friendly.
 
 Leef
